@@ -2,7 +2,7 @@
 
 ## Project Info
 
-**Live URL**: [Coming Soon or your deployed link here]
+**Live URL**: (https://persikope.vercel.app/)
 
 ## How can I edit this code?
 
